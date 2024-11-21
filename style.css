@@ -6,9 +6,17 @@ h1{
 }
 @media (min-width:640px) {
     body{
-        background-color: beige;
+        background-color: rgb(245, 220, 245);
     }
     h1{
         color: rgb(255, 17, 0);
+    }
+}
+@media (min-width:768px) {
+    body{
+        background-color: pink;
+    }
+    h1{
+        color: black;
     }
 }
