@@ -1,0 +1,14 @@
+body{
+   background-color: blanchedalmond;
+}
+h1{
+    color: black;
+}
+@media (min-width:640px) {
+    body{
+        background-color: beige;
+    }
+    h1{
+        color: rgb(255, 60, 0);
+    }
+}
